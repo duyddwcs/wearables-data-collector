@@ -1,1 +1,1 @@
-# wearables-activity-counter
+# wearables-data-collector
